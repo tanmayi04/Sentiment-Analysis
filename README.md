@@ -4,5 +4,5 @@ Sentiment Analysis is based on emotion and opinion extraction of people about pa
 How To Run:-
 1. Download this notebook file. 
 2. Load it into your local jupyter notebook software.
-3. press shift+enter tu run each cell.
+3. press shift+enter to run each cell.
  
